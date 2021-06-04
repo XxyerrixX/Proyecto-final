@@ -1,2 +1,2 @@
 # Proyecto-final
-Programacion web Estatico Gerdo jimenez Espinosa 
+Programacion web Estatico Gerardo Jimenez Espinosa 
